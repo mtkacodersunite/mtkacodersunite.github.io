@@ -55,6 +55,15 @@ body {
 .jumbotron .btn {
   padding: .75rem 1.5rem;
   font-size: 1.5rem;
+  opacity: 1;
+}
+
+.jumbotron .display-3 {
+  opacity: 1;
+}
+
+.jumbotron .lead {
+  opacity: 1;
 }
 
 /* Supporting marketing content */
