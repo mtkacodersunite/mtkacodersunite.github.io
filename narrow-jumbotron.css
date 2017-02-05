@@ -30,7 +30,12 @@ body {
 }
 
 .text-muted {
-  color: black;
+  color: black;!important
+}
+
+.coders-logo {
+  margin: 0;
+  padding: 0;
 }
 
 /* Custom page footer */
