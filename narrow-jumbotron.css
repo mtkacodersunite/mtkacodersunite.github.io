@@ -49,7 +49,7 @@ body {
   padding-bottom: 10rem;
   background-image: url("coders unitebg.png");
   background-repeat: no-repeat;
-  opacity: 0.7;
+  opacity: 1;
   background-size:cover;
 }
 .jumbotron .btn {
