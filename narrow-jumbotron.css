@@ -29,6 +29,10 @@ body {
   line-height: 3rem;
 }
 
+.text-muted {
+  color: black;
+}
+
 /* Custom page footer */
 .footer {
   padding-top: 1.5rem;
