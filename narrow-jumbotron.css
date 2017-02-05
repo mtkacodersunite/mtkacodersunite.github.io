@@ -58,11 +58,7 @@ body {
   opacity: 1;
 }
 
-.jumbotron .display-3 {
-  opacity: 1;
-}
-
-.jumbotron .lead {
+.jumbotron * {
   opacity: 1;
 }
 
