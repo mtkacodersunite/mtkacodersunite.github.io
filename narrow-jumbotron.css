@@ -1,3 +1,8 @@
+/* Font */
+* {
+  font-family: 'Jura', sans-serif;
+}
+
 /* Space out content a bit */
 body {
   padding-top: 1.5rem;
