@@ -48,6 +48,7 @@ body {
   padding-top: 10rem;
   padding-bottom: 10rem;
   background-image: url("coders unitebg.png");
+  background-repeat: no-repeat;
 }
 .jumbotron .btn {
   padding: .75rem 1.5rem;
