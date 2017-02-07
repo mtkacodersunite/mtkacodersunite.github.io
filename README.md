@@ -14,7 +14,7 @@ You can certainly make a pull request if you have any ideas, however we'd prefer
 Sometime soon, as long as it flies along at this pace. We really don't have a formal development schedule. 
 
 ## What's the license?
-Apache License 2.0. Check out the license info in the repo (creatively titled "LICENSE").
+Apache License 2.0. Check out the license info in the repo (creatively titled "LICENSE").    
 
 
 ©️ 2016-2017 jack-the-coder & eado. 
