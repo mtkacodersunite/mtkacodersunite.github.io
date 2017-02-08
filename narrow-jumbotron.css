@@ -59,6 +59,7 @@ body {
   padding-bottom: 10rem;
   background-image: url("coders unitebg.png");
   background-repeat: no-repeat;
+  background-position: bottom;
   opacity: 1;
   background-size:cover;
 }
